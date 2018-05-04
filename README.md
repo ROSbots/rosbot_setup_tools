@@ -42,7 +42,7 @@ On your host machine (not your Pi - on your laptop), set up the ROSbots setup to
 1. Install python and pip (preferably using [virtualenvwrapper](https://pypi.python.org/pypi/virtualenvwrapper)) 
 1. Clone this very [ROSbots set up tools Git repository](https://github.com/ROSbots/rosbots_setup_tools) if you have not already done so.
 1. cd into the rpi_setup/ folder directory in the repository.
-1. pip install -r requirement.txt
+1. pip install -r requirements.txt
    1. This sets up **on your host machine (ie laptop)** - the python modules needed to "push" commands to your ROSbots' Raspberry Pi.
 
 
